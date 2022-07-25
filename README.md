@@ -4,7 +4,7 @@ CSS and Flexbox practice range.
 
 # challenges
 
-Do a website similar with the images provided on [sample](./#sample)
+Do a website similar with the images provided on [sample](#sample)
 
 # sample:
 
